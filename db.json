@@ -1,0 +1,9 @@
+{
+  "karyawan": [
+    {"id":1,"nama":"Andi","alamat":"Jakarta"},
+    {"id":2,"nama":"Budi","alamat":"Yogya"},
+    {"id":3,"nama":"Caca","alamat":"Bandung"},
+    {"id":4,"nama":"Dedi","alamat":"Jakarta"},
+    {"id":5,"nama":"Euis","alamat":"Bandung"}
+  ]
+}
